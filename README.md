@@ -1,3 +1,3 @@
 # gitmergeconflicts
 
-![Thumbs Up](https://media.giphy.com/media/diUKszNTUghVe/giphy.gif)
+![](https://media.giphy.com/media/y65VoOlimZaus/giphy.gif)
