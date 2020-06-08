@@ -1,3 +1,3 @@
 # gitmergeconflicts
 
-![Thumbs Up](https://media.giphy.com/media/diUKszNTUghVe/giphy.gif)
+![Vodka](https://giphy.com/gifs/drinking-archer-n0SYZLVDpJ1ZK)
